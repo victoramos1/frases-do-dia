@@ -1,5 +1,6 @@
 <h1>Projeto: Frases do dia</h1>
 
+![App em funcionamento](imagens/frases-do-dia.gif)
 
 <h2>Descrição do projeto</h2>
 
